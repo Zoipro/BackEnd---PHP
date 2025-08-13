@@ -1,0 +1,5 @@
+Pelo que entendi, um navegador é um programa de computador que funciona como uma ferramenta para interagir e visualizar o conteúdo do world wide web. 
+Em sua essência, ele é um interpretador de códigos que traduz arquivos de servidores web em páginas visuais, interativas e organizadas na tela do computador.
+Quando digitamos o endereço de um site, ele se conecta a um servidor, baixa os arquivos e depois os organiza na nossa tela. Para fazer isso, ele usa um motor de renderização, que é um software interno que lê as instruções escritas em códigos como o html, css e javascript, e então exibe o conteúdo de forma visual e interativa.
+Para que todas as páginas da internet funcionem corretamente em qualquer navegador como: chrome, firefox, edge, safari, etc, o software obedece a um conjunto de padrões e normas definidos por organizações como o w3c. 
+Isso garante que os desenvolvedores criem sites de forma consistente, e que o motor de renderização de cada navegador interprete os códigos da mesma maneira, evitando que a experiência do usuário seja diferente dependendo do programa que ele usa.
